@@ -1,0 +1,301 @@
+Symbol,Name,Price (Intraday),Change,% Change,Volume,Avg Vol (3 month),Market Cap,PE Ratio (TTM),Category
+AAL,American Airlines Group Inc.,10.68,-0.05,-0.47%,32.909M,33.643M,7.007B,15.04,Most_active
+AAPL,Apple Inc.,230.54,2.97,1.31%,52.696M,68.528M,3.535T,35.85,Most_active
+ABEV,Ambev S.A.,2.15,0.01,0.47%,15.183M,17.544M,33.811B,12.65,Most_active
+ABM,ABM Industries Incorporated,51.28,0.73,1.44%,"3,70,760","6,28,083",3.219B,13.39,Undervalued_growth_stocks
+ABR,"Arbor Realty Trust, Inc.",12.89,-2.64,-17.00%,38.125M,4.164M,2.43B,8.06,"Top_Losers, Most_active"
+ACGL,Arch Capital Group Ltd.,96.5,-0.5,-0.52%,1.507M,1.689M,36.235B,7.62,Undervalued_growth_stocks
+ACLX,"Arcellx, Inc.",62.43,3.15,5.31%,"8,65,790","4,84,208",3.34B,,Top_Gainers
+ACN,Accenture plc,310.63,12.64,4.24%,3.942M,3.533M,194.574B,28.42,Top_Gainers
+ADMA,"ADMA Biologics, Inc.",12.78,0.47,3.82%,2.321M,3.003M,2.963B,,Top_Gainers
+ADNT,Adient plc,24.07,-0.1,-0.41%,"7,41,842",1.062M,2.162B,14.77,Undervalued_growth_stocks
+ADYEY,Adyen N.V.,12.57,0.44,3.63%,"23,631","5,87,124",39.038B,52.38,Top_Gainers
+AEO,"American Eagle Outfitters, Inc.",21.17,0.09,0.40%,3.052M,4.712M,4.158B,19.07,Undervalued_growth_stocks
+AGNC,AGNC Investment Corp.,10.45,0.3,2.96%,29.168M,11.719M,7.596B,11,Most_active
+AGRO,Adecoagro S.A.,9.69,-0.24,-2.42%,"7,33,119","6,61,319",1.009B,4.12,Undervalued_growth_stocks
+ALGN,"Align Technology, Inc.",242.65,-13.65,-5.33%,1.03M,"7,66,596",18.267B,40.04,Top_Losers
+ALK,"Alaska Air Group, Inc.",38.41,0.5,1.32%,2.244M,1.864M,4.874B,20.32,Undervalued_growth_stocks
+ALV,"Autoliv, Inc.",109.65,0.69,0.63%,"5,36,253","6,93,004",8.781B,17.19,Undervalued_growth_stocks
+AMCR,Amcor plc,9.91,0.1,1.02%,9.147M,8.356M,14.323B,22.02,Most_active
+AMCX,AMC Networks Inc.,10.04,-0.11,-1.08%,"6,37,365",1.415M,442.195M,2.81,Undervalued_growth_stocks
+AMD,"Advanced Micro Devices, Inc.",181.61,-0.33,-0.18%,50.394M,51.997M,293.538B,263.2,Most_active
+AMKBY,A.P. Møller - Mærsk A/S,7.84,-0.26,-3.21%,"1,90,387","1,99,614",24.795B,14.79,Top_Losers
+AMZN,"Amazon.com, Inc.",194.49,-0.56,-0.29%,29.759M,41.763M,2.024T,54.33,Most_active
+APA,APA Corporation,29.97,0.18,0.60%,4.198M,5.832M,11.125B,3.36,Undervalued_growth_stocks
+APGE,"Apogee Therapeutics, Inc.",48.02,2.09,4.55%,"4,16,494","4,59,372",2.707B,,Top_Gainers
+APPF,"AppFolio, Inc.",264.35,12.64,5.02%,"5,27,744","2,84,145",9.573B,125.28,Top_Gainers
+APPN,Appian Corporation,33.64,1.15,3.54%,"5,61,279","5,56,316",2.43B,,Top_Gainers
+APTV,Aptiv PLC,72.72,0.97,1.35%,3.205M,2.904M,19.784B,6.83,Undervalued_growth_stocks
+ARCC,Ares Capital Corporation,21.19,-0.03,-0.14%,3.456M,3.253M,13.022B,7.23,Undervalued_growth_stocks
+ARM,Arm Holdings plc,181.18,7.99,4.61%,8.98M,10.861M,189.848B,624.76,Top_Gainers
+ASGN,ASGN Incorporated,94.67,3.59,3.94%,"3,84,496","3,40,466",4.345B,21.91,Top_Gainers
+ASPN,"Aspen Aerogels, Inc.",27.24,1.13,4.33%,1.233M,1.33M,2.075B,,Top_Gainers
+ASTH,"Astrana Health, Inc.",47.19,2.19,4.87%,"4,21,901","1,70,348",2.144B,35.75,Top_Gainers
+ASTS,"AST SpaceMobile, Inc.",13.01,1.11,9.33%,10.731M,10.898M,3.469B,,"Top_Gainers, Most_active"
+ASX,"ASE Technology Holding Co., Ltd.",11.9,-0.6,-4.80%,9.591M,5.685M,25.702B,24.29,"Top_Losers, Most_active"
+AUR,"Aurora Innovation, Inc.",3.7,0.39,11.78%,12.752M,9.344M,5.744B,,Most_active
+AXS,AXIS Capital Holdings Limited,70.58,0.21,0.30%,"2,84,912","5,73,959",5.975B,10.79,Undervalued_growth_stocks
+BABA,Alibaba Group Holding Limited,79.65,1.13,1.44%,14.765M,16.333M,190.853B,18.52,Most_active
+BABAF,Alibaba Group Holding Limited,10,0.56,5.93%,"18,400","2,23,496",190.081B,18.52,Top_Gainers
+BAC,Bank of America Corporation,41.59,-0.22,-0.53%,30.536M,35.779M,325.249B,14.34,Most_active
+BBD,Banco Bradesco S.A.,2.34,0,0.00%,21.361M,18.709M,24.829B,11.14,Most_active
+BBVA,"Banco Bilbao Vizcaya Argentaria, S.A.",10.64,0.11,1.04%,"5,04,765",1.663M,61.321B,7.24,Undervalued_growth_stocks
+BE,Bloom Energy Corporation,13.97,0.6,4.49%,5.266M,7.034M,3.171B,,Top_Gainers
+BEAM,Beam Therapeutics Inc.,26.88,1,3.86%,"9,28,801",1.349M,2.213B,,Top_Gainers
+BIIB,Biogen Inc.,230.06,-6.74,-2.85%,1.464M,1.115M,33.496B,28.72,Top_Losers
+BILI,Bilibili Inc.,16.71,-0.91,-5.16%,7.178M,7.423M,7.24B,,Top_Losers
+BK,The Bank of New York Mellon Corporation,64.69,3.22,5.24%,9.386M,3.5M,48.376B,15.33,"Top_Gainers, Most_active, Undervalued_growth_stocks"
+BLDR,"Builders FirstSource, Inc.",152.73,5.84,3.98%,2.854M,2.014M,18.642B,13.14,Top_Gainers
+BMA,Banco Macro S.A.,53.7,-1,-1.83%,"1,33,790","4,03,704",5.073B,3.82,Undervalued_growth_stocks
+BMY,Bristol-Myers Squibb Company,40.46,-0.29,-0.71%,16.644M,15.32M,82.016B,,Most_active
+BNL,"Broadstone Net Lease, Inc.",16.83,0.19,1.14%,"8,97,869",1.076M,3.32B,17.35,Undervalued_growth_stocks
+BOWL,Bowlero Corp.,13.75,-0.48,-3.37%,"4,97,516","8,07,443",2.047B,24.12,Top_Losers
+BRK-B,Berkshire Hathaway Inc.,424.44,5.66,1.35%,4.805M,3.447M,916.349B,12.52,Undervalued_growth_stocks
+BTE,Baytex Energy Corp.,3.72,-0.02,-0.53%,9.822M,9.096M,3.007B,,Most_active
+BTG,B2Gold Corp.,3.04,0.06,2.01%,10.377M,10.914M,3.974B,,Most_active
+BWLP,BW LPG Limited,15.7,-1.53,-8.88%,"8,06,081","1,95,650",2.15B,4.3,Top_Losers
+BXP,"BXP, Inc.",67.76,2.53,3.88%,1.719M,1.206M,11.94B,55.54,Top_Gainers
+C,Citigroup Inc.,64.52,-1.19,-1.81%,29.595M,12.483M,124.246B,17.82,Most_active
+CAKE,The Cheesecake Factory Incorporated,37.97,0.22,0.58%,"7,21,681","9,99,712",1.935B,17.34,Undervalued_growth_stocks
+CAR,"Avis Budget Group, Inc.",107.43,3.75,3.62%,"6,34,998","6,82,990",3.83B,3.45,Top_Gainers
+CASH,"Pathward Financial, Inc.",59.45,0.37,0.63%,"1,85,369","1,61,488",1.502B,8.94,Undervalued_growth_stocks
+CBT,Cabot Corporation,94.99,1.25,1.33%,"3,02,615","3,24,656",5.249B,12.07,Undervalued_growth_stocks
+CCL,Carnival Corporation & plc,18.23,0.11,0.61%,22.423M,29.507M,27.305B,25.68,Most_active
+CE,Celanese Corporation,142.24,3.05,2.19%,"8,77,640","7,16,900",15.535B,7.8,Undervalued_growth_stocks
+CFLT,"Confluent, Inc.",26.14,1.1,4.39%,5.773M,3.735M,8.308B,,Top_Gainers
+CHX,ChampionX Corporation,32.68,0.1,0.31%,2.797M,1.911M,6.223B,17.76,Undervalued_growth_stocks
+CIG,Companhia Energética de Minas Gerais - CEMIG,1.92,-0.02,-1.03%,"6,59,289",2.025M,6.056B,5.19,Undervalued_growth_stocks
+CKHUY,CK Hutchison Holdings Limited,5.16,0.23,4.67%,"27,420","5,40,227",20.013B,6.53,Top_Gainers
+CLDX,"Celldex Therapeutics, Inc.",39.8,1.38,3.59%,"6,42,157","6,48,306",2.623B,,Top_Gainers
+CLSK,"CleanSpark, Inc.",15.85,0.89,5.95%,29.134M,30.141M,3.612B,121.92,"Top_Gainers, Most_active"
+CMCSA,Comcast Corporation,38.29,0.54,1.43%,16.655M,19.99M,150.236B,10.16,Most_active
+CMG,"Chipotle Mexican Grill, Inc.",57.67,0.12,0.21%,13.936M,15.958M,79.201B,62.01,Most_active
+CNC,Centene Corporation,67.86,0.61,0.91%,3.922M,3.752M,36.214B,13.38,Undervalued_growth_stocks
+CNQ,Canadian Natural Resources Limited,35.53,-1.02,-2.79%,5.74M,4.673M,77.165B,14.33,Top_Losers
+COTY,Coty Inc.,10.44,0.36,3.57%,4.256M,3.884M,9.06B,45.39,Top_Gainers
+CPA,"Copa Holdings, S.A.",96.35,-0.53,-0.55%,"2,37,230","2,66,666",4.017B,6.93,Undervalued_growth_stocks
+CRC,California Resources Corporation,51.4,-1.51,-2.85%,"9,52,597","9,14,709",4.584B,14.48,Top_Losers
+CROX,"Crocs, Inc.",139.24,-3.65,-2.55%,1.407M,1.205M,8.452B,10.8,Top_Losers
+CSCO,"Cisco Systems, Inc.",47.38,0.62,1.33%,20.881M,19.472M,190.885B,16.01,Most_active
+CUBE,CubeSmart,47.37,1.61,3.52%,2.294M,1.255M,10.718B,26.17,Top_Gainers
+CVNA,Carvana Co.,136.24,6.31,4.86%,6.834M,4.789M,15.933B,54.71,Top_Gainers
+CVS,CVS Health Corporation,59,0.79,1.36%,6.832M,12.699M,74.067B,10.35,Undervalued_growth_stocks
+DAL,"Delta Air Lines, Inc.",43.62,-1.37,-3.05%,16.677M,8.431M,28.153B,6.26,"Top_Losers, Most_active, Undervalued_growth_stocks"
+DAY,Dayforce Inc,53.02,1.98,3.88%,1.556M,1.861M,8.372B,160.67,Top_Gainers
+DKS,"DICK'S Sporting Goods, Inc.",221.65,11.51,5.48%,1.934M,1.087M,18.062B,18.35,Top_Gainers
+DNN,Denison Mines Corp.,2.24,-0.04,-1.75%,11.058M,15.806M,1.999B,37.33,Most_active
+DNOW,DNOW Inc.,13.54,0.09,0.67%,"4,75,265","8,42,356",1.446B,6.3,Undervalued_growth_stocks
+DOCU,"DocuSign, Inc.",56.38,2.09,3.85%,2.424M,2.256M,11.542B,108.42,Top_Gainers
+DOLE,Dole plc,12.81,0.14,1.10%,"3,79,391","5,91,250",1.216B,6.31,Undervalued_growth_stocks
+DPZ,"Domino's Pizza, Inc.",491.48,18.39,3.89%,"7,05,788","5,06,477",17.143B,32.06,Top_Gainers
+EAT,"Brinker International, Inc.",63.76,-1.45,-2.22%,2.654M,1.525M,2.837B,18.92,Undervalued_growth_stocks
+ELP,Companhia Paranaense de Energia - COPEL,7.55,0,0.00%,"1,35,950","2,27,659",5.63B,14.52,Undervalued_growth_stocks
+ENPH,"Enphase Energy, Inc.",119.34,7.66,6.86%,5.626M,4.089M,16.238B,61.2,Top_Gainers
+ERIC,Telefonaktiebolaget LM Ericsson (publ),6.68,0.29,4.54%,36.54M,15.976M,22.476B,,"Top_Gainers, Most_active"
+ERO,Ero Copper Corp.,22.82,0.87,3.96%,"3,72,880","3,78,054",2.357B,35.11,Top_Gainers
+ET,Energy Transfer LP,16.25,-0.06,-0.37%,11.305M,11.243M,54.785B,14.91,Most_active
+ETSY,"Etsy, Inc.",60.5,2.19,3.76%,4.028M,3.418M,7.074B,27.63,Top_Gainers
+EURN,Euronav NV,16.31,0,0.00%,"1,56,752","2,78,253",3.168B,2.79,Undervalued_growth_stocks
+F,Ford Motor Company,14.03,0.56,4.16%,84.534M,47.995M,55.75B,14.46,"Top_Gainers, Most_active, Undervalued_growth_stocks"
+FERG,Ferguson plc,204,8.49,4.34%,1.987M,1.153M,41.13B,22.32,Top_Gainers
+FIVN,"Five9, Inc.",43.74,2.02,4.84%,1.505M,1.306M,3.231B,,Top_Gainers
+FLMMF,Filo Corp.,20.56,1.32,6.86%,"17,780","37,183",2.691B,,Top_Gainers
+FOX,Fox Corporation,33.35,0.1,0.30%,"3,56,469",1.041M,16.115B,10.52,Undervalued_growth_stocks
+FOXA,Fox Corporation,35.73,0.09,0.25%,1.532M,2.773M,16.116B,11.27,Undervalued_growth_stocks
+FSK,FS KKR Capital Corp.,20.33,0.03,0.15%,"6,60,775",1.278M,5.694B,8.51,Undervalued_growth_stocks
+FTRE,Fortrea Holdings Inc.,26,1.25,5.05%,1.865M,1.427M,2.324B,,Top_Gainers
+GBDC,"Golub Capital BDC, Inc.",15.84,-0.16,-1.00%,1.648M,1.198M,4.176B,7.8,Undervalued_growth_stocks
+GBX,"The Greenbrier Companies, Inc.",45.45,0.33,0.73%,"3,46,023","3,53,085",1.415B,11.93,Undervalued_growth_stocks
+GDDY,GoDaddy Inc.,145.33,3.21,2.26%,1.255M,1.863M,20.483B,12.59,Undervalued_growth_stocks
+GDRX,"GoodRx Holdings, Inc.",7.71,-0.32,-3.99%,1.52M,1.277M,2.894B,,Top_Losers
+GGN,"GAMCO Global Gold, Natural Resources & Income Trust",4.14,0,0.00%,"2,20,793","3,84,345",638.79M,8.45,Undervalued_growth_stocks
+GH,"Guardant Health, Inc.",31.07,1.1,3.67%,1.628M,2.095M,3.802B,,Top_Gainers
+GM,General Motors Company,49.01,1.08,2.25%,15.702M,13.719M,55.891B,5.98,"Most_active, Undervalued_growth_stocks"
+GME,GameStop Corp.,26.05,0.48,1.88%,15.939M,51.606M,11.103B,325.62,Most_active
+GMS,GMS Inc.,87.67,3.05,3.60%,"4,48,124","4,06,566",3.476B,12.99,Top_Gainers
+GNRC,Generac Holdings Inc.,153.94,5.49,3.70%,1.477M,"9,80,641",9.331B,42.52,Top_Gainers
+GNTX,Gentex Corporation,34.34,0.2,0.59%,"8,93,419",1.33M,7.939B,18.17,Undervalued_growth_stocks
+GOLD,Barrick Gold Corporation,18.52,0.39,2.15%,22.736M,21.218M,32.534B,22.59,Most_active
+GOOG,Alphabet Inc.,186.78,-0.52,-0.28%,14.353M,18.588M,2.297T,28.65,Most_active
+GOOGL,Alphabet Inc.,185.07,-0.5,-0.27%,22.774M,25.191M,2.297T,28.43,Most_active
+GRAB,Grab Holdings Limited,3.61,0.02,0.56%,12.026M,21.032M,14.27B,,Most_active
+GRFS,"Grifols, S.A.",8.26,-0.59,-6.67%,3.44M,1.453M,6.765B,82.6,Top_Losers
+GSBD,"Goldman Sachs BDC, Inc.",15.5,-0.03,-0.19%,"4,41,468","6,09,182",1.739B,8.03,Undervalued_growth_stocks
+HAL,Halliburton Company,33.94,0.32,0.95%,6.776M,7.291M,30.047B,11.78,Undervalued_growth_stocks
+HBAN,Huntington Bancshares Incorporated,13.54,0.08,0.59%,15.291M,17.083M,19.623B,12.2,Most_active
+HCM,HUTCHMED (China) Limited,19.4,1.62,9.11%,"2,52,985","1,36,885",3.313B,32.33,Top_Gainers
+HGTY,"Hagerty, Inc.",10.97,-0.45,-3.94%,"1,30,191","1,18,730",3.694B,137.12,Top_Losers
+HIG,"The Hartford Financial Services Group, Inc.",101.75,0.41,0.40%,1.019M,1.535M,30.093B,11.59,Undervalued_growth_stocks
+HLIT,Harmonic Inc.,11.91,-0.09,-0.75%,1.041M,1.458M,1.388B,19.52,Undervalued_growth_stocks
+HMC,"Honda Motor Co., Ltd.",32.59,0.41,1.27%,"5,03,865","8,28,001",52.384B,7.78,Undervalued_growth_stocks
+HMY,Harmony Gold Mining Company Limited,9.62,-0.39,-3.90%,5.269M,4.21M,6.334B,12.18,Top_Losers
+HNHPF,"Hon Hai Precision Industry Co., Ltd.",13.39,-0.45,-3.25%,"43,385","1,44,780",92.987B,20.29,Top_Losers
+HOOD,"Robinhood Markets, Inc.",22.28,0.24,1.09%,10.167M,17.055M,19.58B,159.14,Most_active
+HUBS,"HubSpot, Inc.",476.13,-13.64,-2.78%,1.857M,"7,86,964",24.265B,,Top_Losers
+IBN,ICICI Bank Limited,29.18,-0.13,-0.44%,2.606M,4.795M,103.874B,19.58,Undervalued_growth_stocks
+IGGRF,IG Group Holdings plc,11,2.26,25.86%,100,7,4.08B,11.58,Top_Gainers
+IMMR,Immersion Corporation,10.72,0.11,1.04%,"7,53,094","5,53,482",341.483M,7.77,Undervalued_growth_stocks
+INCY,Incyte Corporation,63.66,1.37,2.20%,1.933M,3.626M,12.542B,19.29,Undervalued_growth_stocks
+INFY,Infosys Limited,20.4,0.51,2.56%,10.575M,10.079M,84.873B,26.84,Most_active
+INTC,Intel Corporation,34.49,0.99,2.96%,62.636M,47.525M,146.819B,35.56,Most_active
+INTR,"Inter & Co, Inc.",6.74,0.3,4.66%,"9,27,502","8,65,788",2.958B,32.1,Top_Gainers
+IPAR,"Inter Parfums, Inc.",129.43,7.55,6.19%,"2,51,584","1,50,479",4.145B,29.82,Top_Gainers
+IREN,Iris Energy Limited,12.31,1.11,9.91%,17.726M,14.366M,2.3B,,"Top_Gainers, Most_active"
+ITUB,Itaú Unibanco Holding S.A.,6.19,0,0.00%,11.062M,18.48M,60.615B,9.24,Most_active
+JANX,"Janux Therapeutics, Inc.",44.23,1.95,4.61%,"5,45,990","8,18,441",2.293B,,Top_Gainers
+JBLU,JetBlue Airways Corporation,6.1,0.2,3.39%,17.43M,11.487M,2.075B,,Most_active
+JD,"JD.com, Inc.",28.15,-0.48,-1.68%,11.829M,12.145M,43.899B,12.91,Most_active
+JHX,James Hardie Industries plc,33.65,1.48,4.60%,"48,405","74,608",14.518B,29.01,Top_Gainers
+JKS,"JinkoSolar Holding Co., Ltd.",23.21,0.31,1.35%,"5,64,964","8,39,759",1.182B,3.29,Undervalued_growth_stocks
+JLL,Jones Lang LaSalle Incorporated,225.82,8.36,3.84%,"3,95,674","2,64,893",10.74B,36.25,Top_Gainers
+JOBY,"Joby Aviation, Inc.",6.61,0.4,6.44%,14.265M,5.573M,4.683B,,"Top_Gainers, Most_active"
+JPM,JPMorgan Chase & Co.,204.94,-2.51,-1.21%,14.72M,9.278M,588.52B,11.43,Most_active
+KEY,KeyCorp,15.21,0.08,0.53%,13.828M,12.959M,14.341B,19.5,Most_active
+KGC,Kinross Gold Corporation,9.21,0.03,0.33%,14.828M,16.472M,11.32B,25.58,Most_active
+KMI,"Kinder Morgan, Inc.",20.19,0.03,0.15%,18.018M,13.297M,44.809B,18.52,Most_active
+KVUE,Kenvue Inc.,18.34,0.42,2.34%,11.337M,22.388M,35.118B,23.51,Most_active
+KYMR,"Kymera Therapeutics, Inc.",42.3,3.3,8.46%,1.007M,"5,93,361",2.595B,,Top_Gainers
+KYN,"Kayne Anderson Energy Infrastructure Fund, Inc.",10.62,0.04,0.38%,"2,93,052","4,52,796",1.796B,14.96,Undervalued_growth_stocks
+L,Loews Corporation,76.92,0.3,0.39%,"4,61,472","7,42,708",17.031B,11.43,Undervalued_growth_stocks
+LAUR,"Laureate Education, Inc.",15.16,0.1,0.66%,"5,14,041","8,02,437",2.352B,18.05,Undervalued_growth_stocks
+LCID,"Lucid Group, Inc.",4.25,0.85,25.00%,167.127M,26.324M,9.805B,,Most_active
+LEA,Lear Corporation,118.78,1.13,0.96%,"5,10,291","7,83,611",6.745B,12.95,Undervalued_growth_stocks
+LEGN,Legend Biotech Corporation,54.37,5.87,12.10%,4.879M,1.202M,9.911B,,Top_Gainers
+LFST,"LifeStance Health Group, Inc.",5.33,-0.16,-2.91%,1.499M,1.59M,2.038B,,Top_Losers
+LI,Li Auto Inc.,21.28,-0.16,-0.75%,16.354M,8.318M,22.679B,14.38,Most_active
+LPG,Dorian LPG Ltd.,39.85,-1.27,-3.09%,"5,29,733","7,18,027",1.698B,5.24,Undervalued_growth_stocks
+LRN,"Stride, Inc.",68.58,1.06,1.57%,"4,69,692","6,51,017",2.966B,16.06,Undervalued_growth_stocks
+LUV,Southwest Airlines Co.,27.53,0.56,2.08%,16.345M,10.308M,16.475B,43.02,Most_active
+LW,"Lamb Weston Holdings, Inc.",78.95,0.02,0.03%,2.072M,1.984M,11.4B,10.51,Undervalued_growth_stocks
+LYFT,"Lyft, Inc.",13.11,-0.42,-3.10%,12.359M,13.599M,5.29B,,"Top_Losers, Most_active"
+MARA,"Marathon Digital Holdings, Inc.",20.77,1.75,9.20%,53.697M,46.149M,5.873B,12.98,"Top_Gainers, Most_active"
+MCHOY,MultiChoice Group Limited,5.98,0.29,5.10%,"1,01,986","10,129",2.54B,,Top_Gainers
+MDU,"MDU Resources Group, Inc.",25.3,-0.02,-0.08%,"5,66,820",1.153M,5.158B,10.37,Undervalued_growth_stocks
+META,"Meta Platforms, Inc.",498.87,-13.83,-2.70%,19.584M,14.948M,1.265T,28.74,"Top_Losers, Most_active"
+MGA,Magna International Inc.,44.45,-0.1,-0.22%,1.032M,1.9M,12.775B,12.59,Undervalued_growth_stocks
+MMYT,MakeMyTrip Limited,90.23,3.66,4.23%,"6,52,737","7,42,029",9.906B,51.86,Top_Gainers
+MOH,"Molina Healthcare, Inc.",293.35,3.28,1.13%,"4,47,899","5,02,500",17.186B,15.93,Undervalued_growth_stocks
+MP,MP Materials Corp.,15.62,0.74,4.97%,2.77M,3.044M,2.582B,,Top_Gainers
+MPW,"Medical Properties Trust, Inc.",4.52,0,0.00%,9.726M,16.449M,2.712B,,Most_active
+MRVI,"Maravai LifeSciences Holdings, Inc.",8.94,0.34,3.95%,1.684M,2.123M,2.252B,,Top_Gainers
+MSFT,Microsoft Corporation,453.55,-1.15,-0.25%,16.178M,18.959M,3.371T,39.37,Most_active
+MTCH,"Match Group, Inc.",32.28,0.73,2.31%,6.573M,5.097M,8.576B,14.16,Undervalued_growth_stocks
+MTZ,"MasTec, Inc.",107.6,3.69,3.55%,"7,63,850","8,01,593",8.55B,,Top_Gainers
+MU,"Micron Technology, Inc.",133.55,3.32,2.55%,19.678M,21.467M,148.086B,,Most_active
+MUFG,"Mitsubishi UFJ Financial Group, Inc.",11.07,-0.02,-0.18%,1.201M,2.084M,129.413B,14.38,Undervalued_growth_stocks
+NATL,NCR Atleos Corporation,30.05,2.16,7.74%,2.017M,"8,61,524",2.167B,,Top_Gainers
+NCLH,Norwegian Cruise Line Holdings Ltd.,19.53,0.44,2.30%,11.604M,13.98M,8.379B,24.11,Most_active
+NCLTY,"Nitori Holdings Co., Ltd.",11.11,0.54,5.11%,"51,734","89,091",12.556B,23.64,Top_Gainers
+NEP,"NextEra Energy Partners, LP",28.64,1.19,4.34%,1.89M,1.546M,2.679B,21.7,Top_Gainers
+NFE,New Fortress Energy Inc.,21.21,0.63,3.06%,2.069M,1.982M,4.349B,9.64,Undervalued_growth_stocks
+NIO,NIO Inc.,4.87,0.19,4.06%,50.596M,51.408M,10.165B,,Most_active
+NKE,"NIKE, Inc.",73.42,0.03,0.04%,13.896M,13.09M,110.817B,19.68,Most_active
+NOK,Nokia Oyj,3.99,0.05,1.27%,12.428M,13.523M,21.971B,24.94,Most_active
+NOV,NOV Inc.,18.52,0.16,0.87%,1.927M,2.928M,7.325B,7.47,Undervalued_growth_stocks
+NOVT,Novanta Inc.,171.82,6.23,3.76%,"3,26,474","1,38,432",6.167B,89.03,Top_Gainers
+NTLA,"Intellia Therapeutics, Inc.",25.79,1.16,4.71%,1.926M,1.623M,2.488B,,Top_Gainers
+NTNX,"Nutanix, Inc.",54.28,-2.42,-4.27%,5.245M,2.627M,13.388B,,Top_Losers
+NU,Nu Holdings Ltd.,13.41,0.16,1.21%,23.019M,25.834M,64.114B,51.58,Most_active
+NVDA,NVIDIA Corporation,129.24,1.84,1.44%,247.608M,408.539M,3.179T,75.58,Most_active
+NVST,Envista Holdings Corporation,16.04,-0.7,-4.18%,3.094M,2.409M,2.757B,,Top_Losers
+OCSL,Oaktree Specialty Lending Corporation,18.55,-0.05,-0.27%,"5,86,208","5,37,488",1.51B,13.64,Undervalued_growth_stocks
+ON,ON Semiconductor Corporation,76.87,2.63,3.54%,5.945M,6.157M,33.072B,15.69,Top_Gainers
+OSG,"Overseas Shipholding Group, Inc.",8.49,0,0.00%,15,1.198M,611.543M,10.35,Undervalued_growth_stocks
+OSK,Oshkosh Corporation,108.03,1.62,1.52%,"3,32,603","4,67,382",7.065B,10.34,Undervalued_growth_stocks
+OTGLY,CD Projekt S.A.,10.06,0.56,5.89%,"55,104","18,572",4.025B,31.44,Top_Gainers
+PATH,UiPath Inc.,12.63,0.28,2.27%,10.681M,11.022M,7.234B,,Most_active
+PBYI,"Puma Biotechnology, Inc.",3.59,0.15,4.36%,"4,41,184","4,64,101",173.177M,11.22,Undervalued_growth_stocks
+PCG,PG&E Corporation,18.12,0.16,0.89%,11.653M,12.885M,47.382B,16.18,Most_active
+PCOR,"Procore Technologies, Inc.",67.16,2.28,3.51%,1.51M,1.449M,9.827B,,Top_Gainers
+PFE,Pfizer Inc.,28.92,0.26,0.91%,28.153M,36.734M,163.878B,,Most_active
+PLTR,Palantir Technologies Inc.,28.07,0.43,1.56%,30.498M,43.203M,62.509B,233.92,Most_active
+PLUG,Plug Power Inc.,3.07,0.14,4.78%,45.747M,36.222M,2.28B,,Most_active
+PLYA,Playa Hotels & Resorts N.V.,8.47,0,0.00%,"4,60,613","6,01,903",1.128B,17.65,Undervalued_growth_stocks
+PRDO,Perdoceo Education Corporation,21.7,0.17,0.79%,"3,22,859","5,31,475",1.424B,9.56,Undervalued_growth_stocks
+PROSY,Prosus N.V.,7.52,0.28,3.87%,"43,217",1.151M,91.949B,14.19,Top_Gainers
+PSMT,"PriceSmart, Inc.",83.26,3.03,3.78%,"2,46,692","1,51,624",2.552B,20.26,Top_Gainers
+PSNY,Polestar Automotive Holding UK PLC,1.01,0.0843,9.11%,14.608M,11.231M,2.131B,,Most_active
+PUMP,ProPetro Holding Corp.,8.42,0.03,0.36%,"6,78,820",1.672M,901.268M,12.2,Undervalued_growth_stocks
+PVH,PVH Corp.,107.42,-1.46,-1.34%,"6,45,576","8,06,401",6B,9.58,Undervalued_growth_stocks
+PYPL,"PayPal Holdings, Inc.",60.27,0.28,0.47%,8.057M,12.064M,63.045B,15.18,Undervalued_growth_stocks
+QS,QuantumScape Corporation,8.25,1.19,16.86%,62.795M,7.91M,4.121B,,"Top_Gainers, Most_active"
+RBLX,Roblox Corporation,40.53,2.01,5.22%,8.282M,7.531M,25.938B,,Top_Gainers
+RDDT,"Reddit, Inc.",73.85,3.56,5.06%,3.497M,3.347M,12.075B,,Top_Gainers
+REVG,"REV Group, Inc.",24.9,-0.41,-1.62%,"7,91,694","8,11,617",1.293B,5.86,Undervalued_growth_stocks
+RF,Regions Financial Corporation,20.47,-0.24,-1.16%,11.076M,7.437M,18.747B,11.06,Most_active
+RGA,"Reinsurance Group of America, Incorporated",212.64,0.9,0.43%,"2,91,454","3,55,059",13.99B,16.5,Undervalued_growth_stocks
+RIG,Transocean Ltd.,5.3,0.12,2.32%,15.258M,18.109M,4.638B,,Most_active
+RIOT,"Riot Platforms, Inc.",9.81,0.49,5.32%,22.401M,23.025M,2.832B,23.35,"Top_Gainers, Most_active"
+RIVN,"Rivian Automotive, Inc.",18.11,1.35,8.05%,96.941M,46.339M,18.025B,,"Top_Gainers, Most_active"
+RKLB,"Rocket Lab USA, Inc.",5.65,0.32,6.00%,11.178M,7.492M,2.784B,,"Top_Gainers, Most_active"
+RNG,"RingCentral, Inc.",30.76,1.8,6.22%,1.85M,1.153M,2.835B,,Top_Gainers
+RTMVY,Rightmove plc,15.04,0.61,4.23%,"21,953","47,046",5.956B,23.87,Top_Gainers
+RUN,Sunrun Inc.,17.2,1.13,7.03%,19.206M,12.096M,3.813B,,"Top_Gainers, Most_active"
+RVMD,"Revolution Medicines, Inc.",45.14,1.79,4.13%,3.06M,1.351M,7.447B,,Top_Gainers
+RXRX,"Recursion Pharmaceuticals, Inc.",8.36,0.68,8.85%,10.133M,5.605M,2.244B,,"Top_Gainers, Most_active"
+RYTM,"Rhythm Pharmaceuticals, Inc.",50.02,3.42,7.34%,"6,24,144","5,50,256",3.05B,,Top_Gainers
+SAH,"Sonic Automotive, Inc.",56.69,1.58,2.87%,"2,01,801","2,00,064",1.933B,11.62,Undervalued_growth_stocks
+SBUX,Starbucks Corporation,74.83,1.53,2.09%,10.422M,12.685M,84.76B,20.61,Most_active
+SEM,Select Medical Holdings Corporation,37.49,0.49,1.32%,"4,16,762","6,08,203",4.875B,17.85,Undervalued_growth_stocks
+SGRY,"Surgery Partners, Inc.",26.87,1.32,5.17%,1.274M,"9,83,624",3.415B,"2,687.00",Top_Gainers
+SIG,Signet Jewelers Limited,88.09,-1.84,-2.05%,"8,54,224","8,10,840",3.929B,7.15,Undervalued_growth_stocks
+SIRI,Sirius XM Holdings Inc.,3.71,0.1,2.77%,26.653M,37.933M,14.271B,11.24,Most_active
+SKX,"Skechers U.S.A., Inc.",68.16,0.26,0.38%,1.968M,1.877M,10.396B,17.94,Undervalued_growth_stocks
+SLM,SLM Corporation,21.91,0.2,0.92%,1.066M,1.582M,4.814B,6.83,Undervalued_growth_stocks
+SMTC,Semtech Corporation,35.86,-1.04,-2.82%,2.453M,2.113M,2.318B,,Top_Losers
+SNAP,Snap Inc.,16.18,-0.19,-1.16%,14.508M,26.153M,26.552B,,Most_active
+SOFI,"SoFi Technologies, Inc.",6.97,0.2,2.95%,36.57M,38.126M,7.369B,,Most_active
+SOUN,"SoundHound AI, Inc.",6.2,0.83,15.46%,106.718M,26.308M,2.041B,,"Top_Gainers, Most_active"
+SPSC,"SPS Commerce, Inc.",200.55,7.36,3.81%,"1,87,824","1,82,754",7.427B,109.59,Top_Gainers
+SSNC,"SS&C Technologies Holdings, Inc.",65.31,2.44,3.88%,1.721M,"9,35,608",16.153B,25.92,Top_Gainers
+STRL,"Sterling Infrastructure, Inc.",122.39,5.18,4.42%,"3,44,166","3,45,504",3.777B,25.5,Top_Gainers
+STVN,Stevanato Group S.p.A.,21.71,0.76,3.63%,1.622M,"6,70,166",5.922B,39.47,Top_Gainers
+SUHJY,Sun Hung Kai Properties Limited,9.19,0.47,5.39%,"31,810","2,10,667",26.842B,8.43,Top_Gainers
+SWN,Southwestern Energy Company,6.9,-0.04,-0.58%,19.307M,13.543M,7.61B,,Most_active
+T,AT&T Inc.,18.81,-0.05,-0.27%,37.776M,33.968M,134.871B,10.11,Most_active
+TEM,"Tempus AI, Inc",39.76,2.26,6.03%,1.631M,1.967M,6.554B,,Top_Gainers
+TEX,Terex Corporation,54.62,0.31,0.57%,"8,70,011","8,28,740",3.676B,7.22,Undervalued_growth_stocks
+TGT,Target Corporation,152.85,1.45,0.96%,2.601M,4.059M,70.714B,17.12,Undervalued_growth_stocks
+THC,Tenet Healthcare Corporation,134.39,0.66,0.49%,"7,50,963",1.306M,13.128B,5.21,Undervalued_growth_stocks
+TIGR,UP Fintech Holding Limited,4.53,-0.08,-1.74%,"3,00,723",1.159M,710.716M,25.17,Undervalued_growth_stocks
+TILE,"Interface, Inc.",15.48,0.28,1.84%,"2,74,415","4,73,877",901.599M,15.33,Undervalued_growth_stocks
+TIMB,TIM S.A.,15.58,0.14,0.91%,"4,93,359","4,49,701",7.535B,13.91,Undervalued_growth_stocks
+TK,Teekay Corporation,8.13,-0.11,-1.33%,"4,86,997","5,81,275",742.937M,4.99,Undervalued_growth_stocks
+TKC,Turkcell Iletisim Hizmetleri A.S.,8.18,-0.02,-0.24%,1.031M,"4,33,209",7.348B,17.4,Undervalued_growth_stocks
+TM,Toyota Motor Corporation,207.59,3.86,1.89%,"2,15,057","2,90,879",279.615B,9.17,Undervalued_growth_stocks
+TOST,"Toast, Inc.",25.22,0.85,3.49%,5.246M,7.337M,14.001B,,Top_Gainers
+TPG,TPG Inc.,43.95,1.5,3.53%,"9,20,171","7,65,954",16.032B,,Top_Gainers
+TREX,"Trex Company, Inc.",81.55,3.17,4.04%,1.571M,"8,85,148",8.864B,35,Top_Gainers
+TSLA,"Tesla, Inc.",248.23,7.2,2.99%,155.178M,97.454M,791.655B,63.32,Most_active
+TSM,Taiwan Semiconductor Manufacturing Company Limited,187.35,2.85,1.54%,17.991M,14.978M,971.612B,36.38,Most_active
+U,Unity Software Inc.,17.11,0.59,3.57%,11.675M,8.613M,6.688B,,"Top_Gainers, Most_active"
+UAA,"Under Armour, Inc.",6.87,-0.12,-1.72%,12.449M,9.19M,2.973B,13.21,Most_active
+UAL,"United Airlines Holdings, Inc.",44.72,-0.92,-2.02%,8.966M,8.836M,14.704B,5.46,Undervalued_growth_stocks
+UBER,"Uber Technologies, Inc.",72.43,-1.1,-1.50%,14.645M,18.187M,151.344B,114.97,Most_active
+UGP,Ultrapar Participações S.A.,4.19,-0.08,-1.87%,"7,37,176",1.233M,4.661B,9.52,Undervalued_growth_stocks
+UMC,United Microelectronics Corporation,8.32,0.06,0.73%,12.256M,8.576M,20.848B,12.42,Most_active
+URBN,"Urban Outfitters, Inc.",46.67,-1.39,-2.89%,1.9M,1.615M,4.359B,14.86,"Top_Losers, Undervalued_growth_stocks"
+USLM,"United States Lime & Minerals, Inc.",395.38,22.75,6.11%,"31,382","23,903",11.286B,141.21,Top_Gainers
+VAL,Valaris Limited,76.76,1.26,1.67%,"6,07,123","9,24,840",5.558B,6.82,Undervalued_growth_stocks
+VALE,Vale S.A.,11.52,0.13,1.14%,21.343M,25.669M,49.199B,6.36,Most_active
+VC,Visteon Corporation,110.24,1.52,1.40%,"3,56,142","2,53,527",3.042B,6.35,Undervalued_growth_stocks
+VERA,"Vera Therapeutics, Inc.",36.62,-0.95,-2.53%,"4,41,111","7,79,038",2.003B,,Top_Losers
+VOYA,"Voya Financial, Inc.",71.86,-0.57,-0.79%,"7,14,569","7,69,237",7.236B,10.22,Undervalued_growth_stocks
+VRT,Vertiv Holdings Co,89.67,-3.19,-3.44%,10.27M,9.409M,33.568B,85.4,"Top_Losers, Most_active"
+VZ,Verizon Communications Inc.,41.43,0.13,0.31%,11.059M,17.338M,174.389B,15.52,Most_active
+WBA,"Walgreens Boots Alliance, Inc.",11.5,0.07,0.61%,17.138M,15.695M,9.928B,,Most_active
+WBD,"Warner Bros. Discovery, Inc.",7.4,0.02,0.27%,17.158M,28.646M,18.132B,,Most_active
+WDFC,WD-40 Company,239.87,11.24,4.92%,"2,04,680","93,664",3.251B,47.13,Top_Gainers
+WEGZY,WEG S.A.,8.56,0.41,5.03%,"51,178","66,161",35.913B,34.24,Top_Gainers
+WES,"Western Midstream Partners, LP",40.96,0.27,0.66%,"5,20,575",1.106M,15.585B,11.54,Undervalued_growth_stocks
+WFC,Wells Fargo & Company,56.54,-3.62,-6.02%,52.887M,18.251M,197.117B,11.59,"Top_Losers, Most_active"
+WIT,Wipro Limited,6.72,0.23,3.54%,3.511M,2.824M,35.108B,26.88,Top_Gainers
+WMMVY,"Wal-Mart de México, S.A.B. de C.V.",38.65,1.87,5.08%,"45,615","72,956",67.43B,22.6,Top_Gainers
+WRK,WestRock Company,51.51,1.76,3.54%,11.862M,3.209M,13.304B,42.57,"Top_Gainers, Most_active"
+WST,"West Pharmaceutical Services, Inc.",322.98,-10.32,-3.10%,"6,27,848","5,51,241",23.644B,42.55,Top_Losers
+XENE,Xenon Pharmaceuticals Inc.,42.92,1.74,4.23%,"6,69,787","4,01,229",3.239B,,Top_Gainers
+XPEV,XPeng Inc.,8.84,0.15,1.73%,18.245M,13.568M,8.352B,,Most_active
+XYF,X Financial,4.32,-0.1,-2.26%,"2,883","17,353",213.575M,1.21,Undervalued_growth_stocks
+YALA,Yalla Group Limited,4.7,0.01,0.21%,"87,713","1,86,469",746.684M,6.62,Undervalued_growth_stocks
+YY,JOYY Inc.,34.68,0.72,2.12%,"3,04,000","3,64,135",2.057B,6.75,Undervalued_growth_stocks
+ZIM,ZIM Integrated Shipping Services Ltd.,17.05,-0.82,-4.59%,9.266M,5.845M,2.051B,,"Top_Losers, Most_active"
